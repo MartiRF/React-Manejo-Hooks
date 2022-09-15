@@ -1,7 +1,9 @@
 body{
     margin: 5px;
 }
-
+a{
+    margin-left: 15px;
+}
 button{
     margin-right: 10px;
 }
