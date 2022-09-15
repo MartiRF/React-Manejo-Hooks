@@ -1,0 +1,7 @@
+.ico{
+    min-height: 15px;
+    width: 15px;
+    background-image: url('../assents/house.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
