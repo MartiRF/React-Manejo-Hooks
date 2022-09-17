@@ -3,7 +3,7 @@ import { useConter } from "../../hooks/useCounter"
 import { todoReducer } from "../todoReducer"
 
 const initialState = []
-const init = () => { return JSON.parse( localStorage.getItem('todos') || []) }
+const init = () => { return JSON.parse( localStorage.getItem('todos') || [])}
 
 export const useTodo = () => {
     
